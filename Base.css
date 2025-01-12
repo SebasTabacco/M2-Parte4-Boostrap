@@ -1,0 +1,10 @@
+.accordion-button {
+  background-color: rgb(34, 149, 153);
+}
+.btn {
+  background-color: aqua;
+}
+.container-fluid {
+  display: inline-block;
+  text-align: center;
+}
